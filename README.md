@@ -2,7 +2,7 @@
 
 :video_game: I'm working with Unreal Engine and develop cool plugins.
 
-☕ You can keep me fueled by donating a coffee if you want: https://www.buymeacoffee.com/intaxeren - but everything I post here is free for the community and I don't expect anything back other than knowing the stuff I share is helping people 😊
+👀 Community often knows me from a transpiler that I'm developing, **BP2CPP**, a Blueprints to C++ nativization tool.
 
 :mailbox: To reach me, you can send a mail to this adress: virtualc@protonmail.com
 
